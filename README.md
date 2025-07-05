@@ -6,10 +6,9 @@ This project is a simple but effective **Train Entry System** using **QR Codes**
 
 ## 🔧 Key Features
 
-- ✅ Generate a **secure unique ticket id** for each passenger
-- ✅ Create a **QR code** containing only the token (no personal info exposed)
-- ✅ Scan the QR to retrieve and verify the token
-- ✅ Validate entry based on token existence
+- ✅ Generate a **secure unique ticket id** for each passenge
+- ✅ Scan the QR to retrieve and verify the ticket id
+- ✅ Validate entry based on tiket id existence
 - ✅ City-to-city travel selection with live display
 - ✅ Built using **Streamlit** and **qrcode** for fast deployment
 
